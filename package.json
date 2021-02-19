@@ -1,0 +1,27 @@
+{
+  "name": "new-jersey-counties",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njam-data/new-jersey-counties.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njam-data/new-jersey-counties/issues"
+  },
+  "homepage": "https://github.com/njam-data/new-jersey-counties#readme",
+  "devDependencies": {
+    "got": "^11.8.1"
+  },
+  "dependencies": {
+    "geojson2svg": "^1.2.3",
+    "simplify-geojson": "^1.0.4"
+  }
+}
