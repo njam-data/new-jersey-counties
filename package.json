@@ -1,5 +1,5 @@
 {
-  "name": "new-jersey-counties",
+  "name": "@njam-data/new-jersey-counties",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/njam-data/new-jersey-counties#readme",
   "devDependencies": {
-    "got": "^11.8.1"
+    "got": "^11.8.2"
   },
   "dependencies": {
-    "geojson2svg": "^1.2.3",
+    "geojson2svg": "^1.2.6",
     "simplify-geojson": "^1.0.4"
   }
 }

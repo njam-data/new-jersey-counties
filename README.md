@@ -8,7 +8,7 @@ NJGIN Open Data https://njogis-newjersey.opendata.arcgis.com/datasets/county-bou
 ## Usage
 
 ```js
-import { getCounties } from 'new-jersey-counties'
+import { getCounties } from '@njam-data/new-jersey-counties'
 
 const geojsonCounties = await getCounties('geojson')
 const jsonCounties = await getCounties('json')
